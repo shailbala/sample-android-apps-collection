@@ -10,4 +10,5 @@ A collection of android applications/links to android apps concepts
 
 ### Github Project Links:
 * FragmentBoundServiceExample: An example on how to use bound service from fragments in Android
+
     [Link](https://github.com/ena1106/FragmentBoundServiceExample)
